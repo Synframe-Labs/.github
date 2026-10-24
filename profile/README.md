@@ -1,4 +1,4 @@
-# synframe
+# About us
 
 We build custom software, integrations, and tools that help businesses improve their everyday operations.
 Our work also covers infrastructure, cybersecurity, AI, and design.
