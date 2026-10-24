@@ -1,0 +1,25 @@
+name: Feature request
+description: Suggest an improvement.
+body:
+  - type: markdown
+    attributes:
+      value: Do not include credentials, personal data, or confidential client information.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What are you trying to accomplish, and what gets in the way?
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+      description: Describe the behavior you need and how it would help.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Include existing workarounds or other approaches, if any.
